@@ -1,4 +1,4 @@
-<hr style="padding-bottom: -70px; margin-bottom: -70px;">
+<hr>
 
 ### ✌🏽Ryan Sethi <img src="akuma-gks.gif" style="-webkit-transform: scaleX(-1); transform: scaleX(-1); position: relative; top: 65px; right:0px; left: 50px; padding: 0px; margin: 0px; background-color: transparent;">
 
@@ -16,4 +16,12 @@ Coding is a place where i can apply my logical brain, my creative side, and my o
 - 📫 How to reach me: ryansethi703@gmail.com
 <hr>
 
-<!-- <img src="akuma-gks.gif"> -->
+### Languages + Tools:
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
