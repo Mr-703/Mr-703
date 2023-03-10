@@ -1,3 +1,5 @@
+<br style="position: relative; top: -50px; padding: 0px; margin: 0px; background-color: blue;">
+
 ### ✌🏽Ryan Sethi <img src="akuma-gks.gif" style="-webkit-transform: scaleX(-1); transform: scaleX(-1); position: relative; top: 65px; right:0px; left: 50px; padding: 0px; margin: 0px; background-color: transparent;">
 
 <br>
