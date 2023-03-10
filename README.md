@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning about three.js
 - 📫 How to reach me: ryansethi703@gmail.com
 
-<img src="akuma-gks.gif">
+<img src="akuma-gks.gif" style="cursor: default;">
