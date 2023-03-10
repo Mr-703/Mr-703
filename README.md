@@ -1,4 +1,4 @@
-### ✌🏽Ryan Sethi <img src="akuma-gks.gif" style="-webkit-transform: scaleX(-1); transform: scaleX(-1); position: relative; top: 70px; right:0px; left: 30px; padding: 0px; margin: 0px; background-color: transparent;">
+### ✌🏽Ryan Sethi <img src="akuma-gks.gif" style="-webkit-transform: scaleX(-1); transform: scaleX(-1); position: relative; top: 70px; right:0px; left: 60px; padding: 0px; margin: 0px; background-color: transparent;">
 
 <br>
 
