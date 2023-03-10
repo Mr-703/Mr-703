@@ -1,4 +1,4 @@
-### ✌🏽Ryan Sethi
+### ✌🏽Ryan Sethi <img src="akuma-gks.gif" style="-webkit-transform: scaleX(-1); transform: scaleX(-1);">
 
 **`Software Developer`**
 
@@ -12,4 +12,4 @@ Coding is a place where i can apply my logical brain, my creative side, and my o
 - 📫 How to reach me: ryansethi703@gmail.com
 <hr>
 
-<img src="akuma-gks.gif">
+<!-- <img src="akuma-gks.gif"> -->
