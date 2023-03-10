@@ -1,4 +1,4 @@
-### ✌🏽Ryan Sethi <img src="akuma-gks.gif" style="-webkit-transform: scaleX(-1); transform: scaleX(-1); position: relative; top: 70px; padding: 0px; margin: 0px;">
+### ✌🏽Ryan Sethi <img src="akuma-gks.gif" style="-webkit-transform: scaleX(-1); transform: scaleX(-1); position: relative; top: 70px; padding: 0px; margin: 0px; background-color: transparent;">
 
 **`Software Developer`**
 
