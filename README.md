@@ -6,7 +6,9 @@ Coding is a place where i can apply my logical brain, my creative side, and my o
 
 <hr>
 - 🔭 I’m currently working on a street fighter II part remake!
+<br>
 - 🌱 I’m currently learning about three.js
+<br>
 - 📫 How to reach me: ryansethi703@gmail.com
 <hr>
 
