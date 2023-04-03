@@ -1,12 +1,12 @@
 <hr>
 
-### ✌🏽Ryan Sethi <img src="akuma-gks.gif" style="-webkit-transform: scaleX(-1); transform: scaleX(-1); position: relative; top: 65px; right:0px; left: 50px; padding: 0px; margin: 0px; background-color: transparent;">
+### 🖖🏽Ryan Sethi <img src="akuma-gks.gif" style="-webkit-transform: scaleX(-1); transform: scaleX(-1); position: relative; top: 65px; right:0px; left: 50px; padding: 0px; margin: 0px; background-color: transparent;">
 
 <br>
 
 **`Software Developer`**
 
-Coding is a place where i can apply my logical brain, my creative side, and my out of the box thinking. Through my portfolio of projects you will see that coding allows me to work on things that interest me, and what i want people to see about me.
+Coding is a place where I can apply my logical brain, my creative side, and my out of the box thinking. Through my portfolio of projects you will see that coding allows me to work on things that interest me, and what I want people to see about me.
 
 <hr>
 🔭 I’m currently working on a street fighter II part remake!
